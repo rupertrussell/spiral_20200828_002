@@ -1,8 +1,7 @@
 // Rupert Russell
 // 28 August 2020
-// Code on Github at: https://github.com/rupertrussell/spiral_20200828
-
-
+// Code on Github at: https://github.com/rupertrussell/spiral_20200828_002
+// artwork on redbubble at: https://www.redbubble.com/shop/ap/56100636?ref=studio-promote
 float radSec;
 float count = 0 ;
 float initialSize = 9411 * 1.5;
